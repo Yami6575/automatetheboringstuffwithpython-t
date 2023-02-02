@@ -2,6 +2,7 @@ import openpyxl
 
 wb=openpyxl.load_workbook('textsheet.xlsx')
 sheet=wb.active
+#
 
 nolines=sheet.max_row
 nofiles=sheet.max_column
