@@ -2,10 +2,10 @@
 **HEY   I  AM NIKHIL KUMAR MISHRA FROM S1 CSE-D**
 
 **#automatetheboringstuffwithpython**
-| Chapters| Status  |
-| :-----:| :-----:| 
+| Chapters| Status |
+| -----------| ----------
 |
-| [Chapter-3](https://github.com/yami6969/automatetheboringstuffwithpython-t/tree/main/chapter3) |Read and done| 
+| [Chapter-3](https://github.com/yami6969/automatetheboringstuffwithpython-t/tree/main/chapter3)|Read and done| 
 | [Chapter-4](https://github.com/yami6969/automatetheboringstuffwithpython-t/tree/main/chapter4)|Read and done | 
 | [Chapter-5](https://github.com/yami6969/automatetheboringstuffwithpython-t/tree/main/chapter5)|Read and done |    
 | [Chapter-6](https://github.com/yami6969/automatetheboringstuffwithpython-t/tree/main/chapter6) | Read and done  1| 
