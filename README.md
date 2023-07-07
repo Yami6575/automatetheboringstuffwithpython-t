@@ -1,5 +1,5 @@
 
-**HEY   I  AM NIKHIL KUMAR MISHRA FROM S1 CSE-D**
+**HEY   I  AM NIKHIL KUMAR MISHRA FROM S1 CSE-D.**
 
 **#automatetheboringstuffwithpython**
 | Chapters| Status |
